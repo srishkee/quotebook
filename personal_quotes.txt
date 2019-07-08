@@ -6,6 +6,6 @@ i.e: BURN
 Live long and prosper.
 ~Spock
 =======
-I like green.
+I like yellow.
 ~Jay Patel
 >>>>>>> personal_quotes
