@@ -2,5 +2,10 @@ Strength through Struggle.
 i.e: BURN
 ~SK
 
+<<<<<<< HEAD
 Live long and prosper.
 ~Spock
+=======
+I like blue.
+~Jay Patel
+>>>>>>> personal_quotes
